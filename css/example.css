@@ -1,0 +1,30 @@
+.button {
+  font-size: 19px;
+}
+.code{
+  margin:30px;
+}
+.code p{
+   font-size:19px;
+   display:block;
+   margin: 12px 0;
+ }
+.Coding{
+   margin:30px;
+   list-style: none;
+ }
+.Coding p{
+  font-size:19px;
+  display:block;
+  margin: 12px 0;
+  display: block;
+}
+.end{
+  margin:30px;
+  list-style: none;
+}
+.end p{
+  ont-size:19px;
+  display:block;
+  margin: 12px 0;
+}
