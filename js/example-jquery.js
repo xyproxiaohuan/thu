@@ -4,7 +4,7 @@
           $("h2").slideToggle('Not work.');
       });
   $('#remove').on('click',function(){
-        $("h3").remove('This is my another work');
+        $("h3").remove();
       });
   // $(document).ready(function(){
   //   $("#hide").click(function(){
