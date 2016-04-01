@@ -4,7 +4,7 @@
 .code{
   margin:30px;
 }
-.code p{
+.code h2{
    font-size:19px;
    display:block;
    margin: 12px 0;
@@ -13,7 +13,7 @@
    margin:30px;
    list-style: none;
  }
-.Coding p{
+.Coding h3{
   font-size:19px;
   display:block;
   margin: 12px 0;
@@ -24,7 +24,7 @@
   list-style: none;
 }
 .end p{
-  ont-size:19px;
+  font-size:19px;
   display:block;
   margin: 12px 0;
 }
